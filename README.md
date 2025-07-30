@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JohnVirginia
+# 👋 Hi, I'm Xiangyu Yamh
 
 Welcome to my GitHub profile! I'm passionate about science, education, and coding. Here's a little bit about me:
 
