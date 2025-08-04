@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Xiangyu Yamh
+# 👋 Hi, I'm Xiangyu Yang
 
 Welcome to my GitHub profile! I'm passionate about science, education, and coding. Here's a little bit about me:
 
